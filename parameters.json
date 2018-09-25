@@ -65,8 +65,7 @@
             "value": "azureops"
         },
         "adminPublicKey": {
-            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCvys7ruToKP2OkFEkr4mCOv+768hmljDBex9TvoGUxV5oeCo3NnSBsWkQAlKALBHeGIo2w7AIforMRGC1AZm4oagzKbhlQeiSA70DEd2U5hv1Ln
-RNYA1wXIsy9BojqzCy0EdkRCBx/sNIqYXd+NYK9Z1nh0al3zplydlxs2nztdnCSUmaD0PTLche0l3PQ0iEfpqqWTk8Q48Qi0Gv2RI5p3wdjkh5uWgHiThsIgHogApsfmB5KipfdydcCHmZl+uU0DW4jWWiE0eAC7HqSkFLp0KYTMnkad7WwAJAYnYZnQtOMbIbKnxymhBZM/fbZwQgoSNmoXPGbivouJHWzxNGf"
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCvys7ruToKP2OkFEkr4mCOv+768hmljDBex9TvoGUxV5oeCo3NnSBsWkQAlKALBHeGIo2w7AIforMRGC1AZm4oagzKbhlQeiSA70DEd2U5hv1LnRNYA1wXIsy9BojqzCy0EdkRCBx/sNIqYXd+NYK9Z1nh0al3zplydlxs2nztdnCSUmaD0PTLche0l3PQ0iEfpqqWTk8Q48Qi0Gv2RI5p3wdjkh5uWgHiThsIgHogApsfmB5KipfdydcCHmZl+uU0DW4jWWiE0eAC7HqSkFLp0KYTMnkad7WwAJAYnYZnQtOMbIbKnxymhBZM/fbZwQgoSNmoXPGbivouJHWzxNGf"
         },
         "diagnosticsStorageAccountName": {
             "value": "table3doddatuesrgdiag"
